@@ -5,6 +5,7 @@
 - Java / Go 后端开发方向，正在向全栈开发拓展
 - 做过已上线微信小程序，关注从需求、接口、数据库到部署上线的完整链路
 - 目前重点学习：后端工程化、数据库设计、系统安全、前端与小程序开发
+- 拓展学习：LLM、Agent
 
 <p>
   <a href="https://github.com/sure141319/wx-school-app">
@@ -76,12 +77,5 @@
 ## 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,ts,nodejs,vue,vite,git,github,githubactions,docker,nginx&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" />
-  <img src="https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nodejs,ts,vue,vite,git,github,githubactions,docker,nginx&theme=dark" />
 </p>
