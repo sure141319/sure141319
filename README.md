@@ -77,18 +77,7 @@
   </tr>
 </table>
 
-## Engineering Highlights
-
-| Area | What I Have Built |
-| --- | --- |
-| Backend API | Spring Boot REST API, unified response model, OpenAPI / Swagger, DTO contract tests |
-| Security | JWT auth, BCrypt password hashing, login lockout, verification-code rate limiting, admin-only audit APIs |
-| Data | MySQL schema design, Flyway migrations, Redis cache, H2 test database |
-| Storage | MinIO object storage, image validation, HEIC / HEIF / WebP processing, upload lifecycle cleanup |
-| Mini Program | WeChat native mini program pages, product flows, production release and QR-code access |
-| Quality | Maven tests, GitHub Actions, verification scripts, API contract maintenance |
-
-## Tech Stack
+## 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Java-17-b07219?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -103,21 +92,8 @@
   <img src="https://img.shields.io/badge/VitePress-5C73E7?style=for-the-badge&logo=vitepress&logoColor=white" alt="VitePress" />
 </p>
 
-## What I Care About
-
-- 把需求边界讲清楚：平台做什么、不做什么，都要写进文档和代码约束里
-- 把系统做完整：不只写接口，也考虑认证、审核、存储、迁移、测试和上线
-- 把项目做可信：README、接口文档、质量门禁和可扫码访问的线上结果，都应该经得起别人点开看
-
 ## GitHub
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sure141319&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="sure141319 GitHub stats" />
 </p>
-
-<!--
-可选增强:
-1. 在 GitHub Profile 侧边栏补充真实姓名、学校、城市、邮箱或简历链接。
-2. 如果有个人博客，可以把博客链接加到 About Me 或 GitHub 区域。
-3. 首页仓库建议命名为 sure141319，并将本 README.md 与 assets/ 一起提交。
--->
