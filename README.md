@@ -87,9 +87,3 @@
   <img src="https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Mini Program" />
   <img src="https://img.shields.io/badge/VitePress-5C73E7?style=for-the-badge&logo=vitepress&logoColor=white" alt="VitePress" />
 </p>
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sure141319&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=21600" alt="sure141319 GitHub stats" />
-</p>
