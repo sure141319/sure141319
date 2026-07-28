@@ -1,7 +1,10 @@
 # Hi, I'm sure
 
-一名关注真实产品落地的后端 / 小程序全栈开发者。  
-我喜欢把校园里的具体问题做成可上线、可维护、有人真正使用的系统，而不是只停留在 Demo。
+## 个人经历
+
+- Java / Go 后端开发方向，正在向全栈开发拓展
+- 做过已上线微信小程序，关注从需求、接口、数据库到部署上线的完整链路
+- 目前重点学习：后端工程化、数据库设计、系统安全、前端与小程序开发
 
 <p>
   <a href="https://github.com/sure141319/wx-school-app">
@@ -15,14 +18,7 @@
   <img src="https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Mini Program" />
 </p>
 
-## About Me
-
-- 主要方向：Java 后端、微信小程序、校园服务类产品
-- 常用技术：Spring Boot、MyBatis、MySQL、Redis、MinIO、Flyway、JWT、VitePress
-- 工程关注：接口契约、权限安全、数据迁移、图片上传处理、缓存、测试与 CI
-- 项目特点：做过已上线微信小程序，也参与过团队协作型校园服务项目
-
-## Featured Projects
+## 项目经历
 
 <table>
   <tr>
@@ -94,6 +90,6 @@
 
 ## GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sure141319&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="sure141319 GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sure141319&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=21600" alt="sure141319 GitHub stats" />
 </p>
