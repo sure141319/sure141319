@@ -76,7 +76,7 @@
 ## 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,ts,vue,nodejs,vite,git,github,githubactions,docker,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,ts,nodejs,vue,vite,git,github,githubactions,docker,nginx&theme=dark" />
 </p>
 
 <p>
