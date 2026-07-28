@@ -5,7 +5,7 @@
 - Java / Go 后端开发方向，正在向全栈开发拓展
 - 做过已上线微信小程序，关注从需求、接口、数据库到部署上线的完整链路
 - 目前重点学习：后端工程化、数据库设计、系统安全、前端与小程序开发
-- 拓展学习：LLM、Agent
+- 拓展学习：LLM 应用开发、Prompt Engineering、RAG 与 AI Agent
 
 <p>
   <a href="https://github.com/sure141319/wx-school-app">
