@@ -30,8 +30,6 @@
       </p>
       <p>
         <a href="https://github.com/sure141319/wx-school-app">Repository</a>
-        ·
-        <a href="https://www.ahut-campus.site">Production API / Site</a>
       </p>
       <p>
         <strong>Tech:</strong> Java 17, Spring Boot 3.3, MyBatis, MySQL, Redis, MinIO, Flyway, JWT, WeChat Mini Program
